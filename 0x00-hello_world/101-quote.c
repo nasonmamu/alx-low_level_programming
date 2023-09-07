@@ -1,12 +1,20 @@
-#include <stdio.h>
-#include <unistdio.h>
-/**
-*main - A c program that prints a line to the standard error
-*return:1(success)
+#include<unistd.h>
+
+/*
+ * main - Entry point
+ *
+ * Description: print a quote using write function
+ *
+ * Return: This time we return an error 1.
+ *
 */
 int main(void)
 {
-fput("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n",stdout);
-return (1);
-}
 
+	char qte[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+
+	write(1, qte, 59);
+
+	return (1);
+
+}
