@@ -10,7 +10,7 @@
 int main(void)
 
 {
-	printf(" prints all numbers of base 10 from 0,\n");
+	printf(" prints 0123456789,\n");
 
 	return (0);
 }
