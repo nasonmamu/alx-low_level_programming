@@ -4,31 +4,24 @@
 
 #include <stdio.h>
 
-/* 
- * main - Entry point
+/*
+ * main -Entry point
  *
- * Description:print value of n and the status ; zero ,positive, negative
+ * Description : print value of n and the status ; zero ,positive, negative
  *
- * Return : Always 0 (success)
+ * Return : Always 0 (Success)
  *
- */
- /* betty style doc for function main goes there */
+*/
 
-    	int main(void)
-	{
+int main(void)
 
-	int n;
+{
 
-	srand(time(0));
+		int n;
 
-	n = rand() - RAND_MAX / 2;
+		srand(time(0));
 
-	/* your code goes there */
-
-	return (0);
-
-
-       		/*my final code*/
+		n = rand() - RAND_MAX / 2;
 
 		if (n > 0)
 
