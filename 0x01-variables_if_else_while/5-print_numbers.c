@@ -10,7 +10,7 @@
 int main(void)
 
 {
-	printf(" prints 0123456789,\n");
+	printf("0123456789,\n");
 
 	return (0);
 }
