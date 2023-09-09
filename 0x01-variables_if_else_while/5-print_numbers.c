@@ -8,7 +8,7 @@
 int main(void)
 
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+	printf("program that prints all numbers of base 10 from 0,\n");
 
 	return (0);
 }
