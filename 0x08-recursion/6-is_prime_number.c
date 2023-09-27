@@ -13,7 +13,7 @@ int _prime(int i, int x)
 		return (0);
 	else if (i > x / 2)
 		return (1);
-	else 
+	else
 		return (_prime(i + 1, x));
 }
 /**
