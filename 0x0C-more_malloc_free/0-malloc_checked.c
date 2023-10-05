@@ -19,7 +19,7 @@ void *malloc_checked(unsigned int b)
 	return (mem);
 }
 
-1-string _nconcat.c
+1-string_ nconcat.c
 
 #include "main.h"
 #include <stdlib.h>
