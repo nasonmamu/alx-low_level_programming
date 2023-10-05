@@ -1,5 +1,3 @@
-2-calloc.c 
-
 #include "main.h"
 #include <stdlib.h>
 
