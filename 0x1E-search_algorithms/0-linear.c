@@ -1,4 +1,6 @@
-uth: Nason Mamu
+/*
+ * File: 0-linear.c
+ * Auth: Nason Mamu
  */
 
 #include "search_algos.h"
