@@ -1,4 +1,6 @@
-uth: Nason Mamu
+/*
+ * File: 100-jump.c
+ * Auth: Nason Mamu
  */
 
 #include "search_algos.h"
