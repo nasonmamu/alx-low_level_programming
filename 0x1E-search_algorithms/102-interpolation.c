@@ -1,4 +1,6 @@
-uth: Nason Mamu
+/*
+ * File: 102-interpolation.c
+ * Auth: Nason Mamu
  */
 
 #include "search_algos.h"
